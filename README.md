@@ -8,7 +8,6 @@
 
  
 ## Contact
----
 <p align="left">
   <!-- Gmail -->
   <a href="mailto:doctorsean0425@gmail.com">
@@ -21,7 +20,7 @@
   </a>
 </p>
 
-
+---
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=doctorsean" alt="Solved.ac Profile" />
 
 <p align="left">
