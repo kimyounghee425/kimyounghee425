@@ -23,8 +23,7 @@
 
 
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=doctorsean" alt="Solved.ac Profile" />
-// stack
-## ---
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
