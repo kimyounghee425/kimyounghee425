@@ -1,8 +1,8 @@
 ## Kim Yonghee
 
-- I'm deeply interested in Developer Experience (DX), and I see DX as part of optimization.
+- I see Developer Experience (DX) not as a convenience, but as a core part of optimization.
 - Interested in solving performance problems through UX, not just technical tweaks.
-- Studying how to use AI agents to improve productivity.
+- Experimenting with AI agents to accelerate iteration without sacrificing quality.
 - Currently work with React, jQuery, and vanilla JavaScript.
 - My dream is to build services that bring people together.
 
