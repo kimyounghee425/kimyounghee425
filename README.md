@@ -1,13 +1,13 @@
 ## Kim Yonghee
 
-- I see Developer Experience (DX) not as a convenience, but as a core part of optimization.
+- I see Developer Experience (DX) as an optimization problem—reducing cognitive load.
 - Interested in solving performance problems through UX, not just technical tweaks.
-- Experimenting with AI agents to accelerate iteration without sacrificing quality.
+- Building reliable automation and development pipelines that make complex systems easier to maintain.
 - Currently working with React, jQuery, and vanilla JavaScript.
 
 
 ---
- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=doctorsean" alt="Solved.ac Profile" />
+
 
 
 <p align="left">
